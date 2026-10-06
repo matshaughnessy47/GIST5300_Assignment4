@@ -2,8 +2,6 @@
 A website with a weather alert leaflet map and earthquake severity leaflet map. A combined toggle map is also available for users.
 
 
-# Assignment 4: Geospatial Alerts and Monitoring
-
 ## Overview
 
 This project contains interactive Leaflet web maps using data from:
